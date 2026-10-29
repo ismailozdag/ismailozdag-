@@ -1,16 +1,19 @@
-## Hi there 👋
+# İsmail Özdağ - ArduPilot Araştırmacısı | Osmaniye
 
-<!--
-**Lifeinperfect/Lifeinperfect** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**İnsansız Hava Araçları (UAV) - Otonom Sistemler - Açık Kaynak Yazılım**
 
-Here are some ideas to get you started:
+Merhaba! Ben İsmail Özdağ. Osmaniye / Reyhanlı merkezli olarak ArduPilot açık kaynaklı otopilot yazılımı üzerine araştırmalar yapıyorum.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔬 Araştırma Alanlarım
+- ArduPilot ile Otonom Görev Planlama (Autonomous Mission Planning)
+- İnsansız Hava Araçları (UAV) Sistemleri
+- Mission Planner ve MAVLink Protokolü
+
+### 📍 Konum
+Osmaniye, Türkiye - Saha testleri ve Ar-Ge çalışmaları
+
+### 🔗 Bağlantılar
+- Website: ismailozdag.tr
+- Academia: İsmail Özdağ Academia Profili
+
+> Bu profil İsmail Özdağ'ın ArduPilot alanındaki akademik ve açık kaynak katkılarını belgelemek için oluşturulmuştur. Diğer İsmail Özdağ (Kaizen, Finans) profillerinden farklıdır.
