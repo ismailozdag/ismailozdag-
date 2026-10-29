@@ -1,4 +1,5 @@
-# İsmail Özdağ - ArduPilot Araştırmacısı | Osmaniye
+# İsmail Özdağ  
+ArduPilot Araştırmacısı | Osmaniye
 
 **İnsansız Hava Araçları (UAV) - Otonom Sistemler - Açık Kaynak Yazılım**
 
@@ -16,4 +17,4 @@ Osmaniye, Türkiye - Saha testleri ve Ar-Ge çalışmaları
 - Website: ismailozdag.tr
 - Academia: İsmail Özdağ Academia Profili
 
-> Bu profil İsmail Özdağ'ın ArduPilot alanındaki akademik ve açık kaynak katkılarını belgelemek için oluşturulmuştur. Diğer İsmail Özdağ (Kaizen, Finans) profillerinden farklıdır.
+> Bu profil İsmail Özdağ'ın Kaizen +  ArduPilot alanındaki akademik ve açık kaynak katkılarını belgelemek için oluşturulmuştur.
