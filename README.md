@@ -3,14 +3,14 @@ ArduPilot Araştırmacısı | Osmaniye
 
 **İnsansız Hava Araçları (UAV) - Otonom Sistemler - Açık Kaynak Yazılım**
 
-Merhaba! Ben İsmail Özdağ. Osmaniye / Reyhanlı merkezli olarak ArduPilot açık kaynaklı otopilot yazılımı üzerine araştırmalar yapıyorum.
+Merhaba! Ben İsmail Özdağ. Türkiye / Osmaniye / merkezli olarak ArduPilot açık kaynaklı otopilot yazılımı üzerine araştırmalar yapıyorum.
 
 ### 🔬 Araştırma Alanlarım
 - ArduPilot ile Otonom Görev Planlama (Autonomous Mission Planning)
 - İnsansız Hava Araçları (UAV) Sistemleri
 - Mission Planner ve MAVLink Protokolü
 
-### 📍 Konum
+### 📍 Konum 
 Osmaniye, Türkiye - Saha testleri ve Ar-Ge çalışmaları
 
 ### 🔗 Bağlantılar
